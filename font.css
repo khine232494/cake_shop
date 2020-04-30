@@ -1,0 +1,16 @@
+@font-face{
+	font-family: 'aa';
+	src:url('Dancing_fonts/Advent_Pro/AdventPro-Regular.ttf');
+}
+@font-face{
+	font-family: 'bb';
+	src:url('Dancing_fonts/Advent_Pro/AdventPro-Bold.ttf');
+}
+@font-face{
+	font-family: 'cc';
+	src:url('Ultra fonts/Ultra/Ultra-Regular.ttf');
+}
+@font-face{
+	font-family: 'dd';
+	src:url('Dancing_fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}

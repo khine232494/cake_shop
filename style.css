@@ -1,0 +1,46 @@
+
+div#bg12 h1{
+	font-family: 'aa';
+	font-size: 30px;
+	padding-top: 10px;
+}
+#headertitle{
+	font-family: aa;
+}
+*{
+	font-family: bb;
+}
+
+#par{
+	font-family: dd;
+	font-size: 100;
+}
+#first{
+	padding-right: 500;
+}
+
+#divider{
+	/*1rem = 16px;*/
+	max-width: 3.25rem;
+	border-width: .2rem;
+	border-color: #fff;
+}
+#headermain{
+	padding: 1.25rem 2.25rem;
+	font-size: .85rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	border:none;
+	border-radius: 10rem;
+	background-color: #ffa500;
+}
+#headercolor{
+	background-color:rgb(255, 165, 0);
+}
+#footer
+{
+	text-align: center;
+	background-color: black;
+	padding: 20;
+	color: orange;
+}
